@@ -101,14 +101,20 @@
 
                 <!-- Benefit 3: Pain Relief -->
                 <div class="luxury-card p-5 sm:p-6">
-                    <h4 class="font-bold text-xl accent-text mb-2 sm:text-2xl">3. Natural Pain Relief</h4>
-                    <p class="text-base sm:text-lg">By relieving the physical pressure of fluid buildup, discomfort is immediately eased. Furthermore, the slow, rhythmic MLD strokes powerfully activate the **Vagus Nerve** and the **Parasympathetic Nervous System**—the body's "rest and digest" mode—which naturally lowers stress hormones and pain perception, offering deep tranquility.</p>
+                    <h4 class="font-bold text-xl accent-text mb-2 sm:text-2xl">3. Hormonal Bloating Happens</h4>
+                    <p class="text-base sm:text-lg">* Hormonal shifts (especially around menstruation, menopause, or post-birth) can cause fluid retention, puffiness, and abdominal heaviness.
+* Estrogen and progesterone fluctuations affect vascular permeability and lymphatic flow, leading to bloating.
+* The lymphatic system, unlike the circulatory system, needs manual stimulation to move fluid—especially when sluggish due to hormonal changes</p>
                 </div>
 
                 <!-- Benefit 4: Immune Support -->
                 <div class="luxury-card p-5 sm:p-6">
-                    <h4 class="font-bold text-xl accent-text mb-2 sm:text-2xl">4. Enhanced Immune Surveillance</h4>
-                    <p class="text-base sm:text-lg">The lymphatic system is the body’s detoxification highway. Stimulating its flow ensures the efficient transport of cellular debris, pathogens, and **Antigen-Presenting Cells (APCs)** to the lymph nodes, enhancing immune surveillance and cleansing the surgical site, thereby supporting a faster, cleaner recovery.</p>
+                    <h4 class="font-bold text-xl accent-text mb-2 sm:text-2xl">4. Immune Support</h4>
+                    <p class="text-base sm:text-lg">
+* Stimulates lymph flow: Helps move lymph fluid, which carries immune cells and removes toxins.
+* Clears stagnation: Reduces swelling and congestion in lymph nodes, especially in the neck, armpits, and groin.
+* Supports detoxification: Enhances the body's ability to eliminate waste and pathogens.
+* Reduces inflammation: Calms the nervous system and lowers stress, which can suppress immune function.</p>
                 </div>
 
                 <!-- Benefit 5: Healing -->
